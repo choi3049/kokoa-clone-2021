@@ -9,3 +9,13 @@
   color: white;
   font-weight: 600;
 }
+
+.find-badge {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: relative;
+  right: -98px;
+  top: -25px;
+}
