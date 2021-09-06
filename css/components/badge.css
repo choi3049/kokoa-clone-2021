@@ -14,8 +14,29 @@
   background-color: tomato;
   width: 5px;
   height: 5px;
+  margin-left: 50px;
   border-radius: 2.5px;
   position: relative;
-  right: -98px;
   top: -25px;
+  right: -50px;
+}
+
+.find-badge__more {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: relative;
+  top: -25px;
+  right: -150px;
+}
+
+.find-badge__emoticons {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 3.5px;
+  position: relative;
+  top: -80px;
+  right: -40px;
 }
